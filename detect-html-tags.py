@@ -14,3 +14,5 @@ for i in range(len(tag_list)):
         print(tag_list[i])
     else:
         print(tag_list[i],end=";")
+
+        
